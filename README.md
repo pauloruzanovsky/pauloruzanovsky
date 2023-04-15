@@ -1,12 +1,14 @@
-### 👋 Hello! I'm Paulo Ruzanovsky, a Full-Stack developer based in Santa Catarina, Brazil.
+## 👋 Hello! I'm Paulo Ruzanovsky, a Full-Stack developer based in Santa Catarina, Brazil.
 
 - 🔭 I’m currently working on personal projects, improving my [portfolio](https://pauloruzanovsky.netlify.app/) and learning every day.
 - :technologist: Over the past year, I've been following The Odin Project's curriculum and created my foundation for frontend development. Currently, I'm delving deeper into NodeJS to enhance my skills in backend as well.
 - :briefcase: I am actively seeking job opportunities as a frontend or backend developer. If you are interested in working with me, please feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/pauloruzanovsky/).
 - :leaves: I am an enthusiast of self-development and prioritize maintaining a healthy mind and body, although I do indulge in an occasional :tumbler_glass: Negroni.
 
-<b align="left">Languages and Tools I'm used to work with:</b>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠 Skills
+Typescript (Javascript), HTML, TailwindCSS (CSS), React, NodeJS, Firebase, MongoDB, Express, Jest
 
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pauloruzanovsky.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloruzanovsky/)
 
