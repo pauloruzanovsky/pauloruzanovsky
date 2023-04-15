@@ -1,0 +1,13 @@
+### 👋 Hello! I'm Paulo Ruzanovsky, a Full-Stack developer based in Santa Catarina, Brazil.
+
+- 🔭 I’m currently working on personal projects, improving my [portfolio](https://pauloruzanovsky.netlify.app/) and learning every day.
+- :technologist: Over the past year, I've been following The Odin Project's curriculum and created my foundation for frontend development. Currently, I'm delving deeper into NodeJS to enhance my skills in backend as well.
+- :briefcase: I am actively seeking job opportunities as a frontend or backend developer. If you are interested in working with me, please feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/pauloruzanovsky/).
+- :leaves: I am an enthusiast of self-development and prioritize maintaining a healthy mind and body, although I do indulge in an occasional :tumbler_glass: Negroni.
+
+<!--
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
