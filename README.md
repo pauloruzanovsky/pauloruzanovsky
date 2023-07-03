@@ -6,7 +6,7 @@
 - :leaves: I am an enthusiast of self-development and prioritize maintaining a healthy mind and body, although I do indulge in an occasional :tumbler_glass: Negroni.
 
 ## 🛠 Skills
-Typescript (Javascript), HTML, TailwindCSS (CSS), React, NodeJS, Firebase, MongoDB, Express, Jest
+MERN Stack (Mongo, Express, React, Node), NextJS, Firebase, Jest
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pauloruzanovsky.netlify.app/)
