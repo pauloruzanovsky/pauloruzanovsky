@@ -1,6 +1,6 @@
 ## I'm Paulo Ruzanovsky, a Data Analyst based in Santa Catarina, Brazil.
 
-- 🔭 I’m currently working on personal projects, improving my [portfolio](https://pauloruzanovsky.netlify.app/) and learning every day.
+I’m currently working on personal projects, improving my [portfolio](https://pauloruzanovsky.netlify.app/) and learning every day.
 
 ## 🛠 Skills
 Excel, Python, SQL, Power BI, Tableau, Qlik, MERN Stack (Mongo, Express, React, Node), NextJS, Firebase
