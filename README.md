@@ -1,4 +1,4 @@
-## I'm Paulo Ruzanovsky, a Data Analyst based in Santa Catarina, Brazil.
+## I'm Paulo Ruzanovsky, a Data Engineer based in Santa Catarina, Brazil.
 
 I’m currently working on personal projects, improving my [portfolio](https://pauloruzanovsky.netlify.app/) and learning every day.
 
